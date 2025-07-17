@@ -32,5 +32,5 @@ A simple and interactive rent calculator built using **Python** and **Jupyter No
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/rent-calculator.git
+   git clone https://github.com/kimshix0x0/rent-calculator.git
    cd rent-calculator
