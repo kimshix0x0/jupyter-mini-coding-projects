@@ -9,7 +9,7 @@ A simple and interactive rent calculator built using **Python** and **Jupyter No
 - User-friendly interface using input prompts
 - Calculates:
   - Base Rent
-  - Utilities (e.g., electricity, water, internet)
+  - electricity
   - Shared or individual expenses
   - Monthly and annual rent overview
 - Supports basic financial planning
@@ -19,12 +19,11 @@ A simple and interactive rent calculator built using **Python** and **Jupyter No
 
 ## 🛠️ Technologies Used
 
-- Python 3.x
+- Python 
 - Jupyter Notebook
 - Libraries:
   - `pandas`
   - `numpy`
-  - `matplotlib` (if any plots included)
 
 ---
 
